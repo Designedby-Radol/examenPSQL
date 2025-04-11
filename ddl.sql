@@ -1,5 +1,7 @@
 CREATE DATABASE techzone;
 
+\c techzone;
+
 CREATE TABLE clientes (
     id serial PRIMARY KEY,
     nombre VARCHAR(100) NOT NULL

@@ -40,7 +40,7 @@ Para desplegar la base de datos, sigue estos pasos:
 
 ### 1. Crear la Base de Datos y Tablas:
 
-Ejecuta el archivo `ddl.sql` en PSQL para generar la estructura de la base de datos.
+Ejecuta el archivo `db.sql` en PSQL para generar la estructura de la base de datos.
 
 ### 2. Cargar Datos Iniciales:
 
